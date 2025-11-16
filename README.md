@@ -18,6 +18,9 @@ Un sistema simple de gestión de biblioteca desarrollado en PHP con MVC básico,
 - Accede a `index.php` para login/registro.
 - Navega por dashboard para gestionar libros, autores y préstamos.
 
+## Base de Datos
+- Importa `database.sql` en MySQL para crear las tablas (usuarios, autores, libros, prestamos).
+- Ajusta credenciales en `config/Database.php`.
 ## Tecnologías
 - PHP 7+, MySQL, HTML/CSS/JS básico.
 
